@@ -65,6 +65,7 @@ export enum GameMapType {
   MilkyWay = "MilkyWay", // map-generator/assets/maps/milkyway/info.json
   MississippiRiver = "Mississippi River", // map-generator/assets/maps/mississippiriver/info.json
   Montreal = "Montreal", // map-generator/assets/maps/montreal/info.json
+  murcia = "Murcia", // map-generator/assets/maps/murcia/info.json
   NewYorkCity = "New York City", // map-generator/assets/maps/newyorkcity/info.json
   NileDelta = "Nile Delta", // map-generator/assets/maps/niledelta/info.json
   NorthAmerica = "North America", // map-generator/assets/maps/northamerica/info.json
@@ -605,6 +606,13 @@ export const maps: readonly MapInfo[] = [
     translationKey: "map.montreal",
     categories: ["north_america"],
     multiplayerFrequency: 6,
+  },
+  {
+    id: "murcia",
+    type: GameMapType.murcia,
+    translationKey: "map.murcia",
+    categories: ["europe"],
+    multiplayerFrequency: 0,
   },
   {
     id: "NewYorkCity",

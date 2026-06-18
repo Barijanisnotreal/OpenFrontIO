@@ -1,0 +1,241 @@
+{
+  "categories": [
+    "europe"
+  ],
+  "id": "murcia",
+  "map": {
+    "height": 1920,
+    "num_land_tiles": 3116700,
+    "width": 2220
+  },
+  "map16x": {
+    "height": 480,
+    "num_land_tiles": 193818,
+    "width": 555
+  },
+  "map4x": {
+    "height": 960,
+    "num_land_tiles": 779157,
+    "width": 1110
+  },
+  "name": "Murcia",
+  "nations": [
+    {
+      "coordinates": [
+        1430,
+        1550
+      ],
+      "flag": "ES",
+      "name": "La Union",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        1863,
+        1503
+      ],
+      "flag": "ES",
+      "name": "Cabo de Palos",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        1131,
+        1531
+      ],
+      "flag": "ES",
+      "name": "Cartagena",
+      "strength": 2
+    },
+    {
+      "coordinates": [
+        552,
+        1518
+      ],
+      "flag": "ES",
+      "name": "Mazarron",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        369,
+        1113
+      ],
+      "flag": "ES",
+      "name": "Bajo Guadalentin",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        1402,
+        550
+      ],
+      "flag": "ES",
+      "name": "Beniel",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        1641,
+        987
+      ],
+      "flag": "ES",
+      "name": "San Javier",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        1601,
+        1139
+      ],
+      "flag": "ES",
+      "name": "Los Alcazares",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        1773,
+        1299
+      ],
+      "flag": "ES",
+      "name": "Isla del Baron",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        1710,
+        1282
+      ],
+      "flag": "ES",
+      "name": "Isla de la Perdiguera",
+      "strength": 2
+    },
+    {
+      "coordinates": [
+        1910,
+        1206
+      ],
+      "flag": "ES",
+      "name": "Isla Grosa",
+      "strength": 2
+    },
+    {
+      "coordinates": [
+        1395,
+        1149
+      ],
+      "flag": "ES",
+      "name": "Torre-Pacheco",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        513,
+        735
+      ],
+      "flag": "ES",
+      "name": "Librilla",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        237,
+        279
+      ],
+      "flag": "ES",
+      "name": "Mula",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        201,
+        423
+      ],
+      "flag": "ES",
+      "name": "Pliego",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        1200,
+        697
+      ],
+      "flag": "ES",
+      "name": "Murcia City",
+      "strength": 2
+    },
+    {
+      "coordinates": [
+        909,
+        1176
+      ],
+      "flag": "ES",
+      "name": "Fuente Álamo",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        1794,
+        930
+      ],
+      "flag": "ES",
+      "name": "San Pedro del Pinatar",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        336,
+        798
+      ],
+      "flag": "ES",
+      "name": "Alhama de Murcia",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        150,
+        1200
+      ],
+      "flag": "ES",
+      "name": "Lorca",
+      "strength": 2
+    },
+    {
+      "coordinates": [
+        250,
+        950
+      ],
+      "flag": "ES",
+      "name": "Totana",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        300,
+        1800
+      ],
+      "flag": "ES",
+      "name": "Águilas",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        900,
+        50
+      ],
+      "flag": "ES",
+      "name": "Yecla",
+      "strength": 1
+    },
+    {
+      "coordinates": [
+        600,
+        300
+      ],
+      "flag": "ES",
+      "name": "Cieza",
+      "strength": 1
+    }
+  ],
+  "translation_key": "map.murcia"
+}

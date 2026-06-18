@@ -1,0 +1,32 @@
+{
+  "name": "Murcia",
+  "id": "murcia",
+  "translation_key": "map.murcia",
+  "categories": ["europe"],
+  "nations": [
+    { "coordinates": [1430, 1550], "flag": "ES", "strength": 1, "name": "La Union" },
+    { "coordinates": [1863, 1503], "flag": "ES", "strength": 1, "name": "Cabo de Palos" },
+    { "coordinates": [1131, 1531], "flag": "ES", "strength": 2, "name": "Cartagena" },
+    { "coordinates": [552, 1518], "flag": "ES", "strength": 1, "name": "Mazarron" },
+    { "coordinates": [369, 1113], "flag": "ES", "strength": 1, "name": "Bajo Guadalentin" },
+    { "coordinates": [1402, 550], "flag": "ES", "strength": 1, "name": "Beniel" },
+    { "coordinates": [1641, 987], "flag": "ES", "strength": 1, "name": "San Javier" },
+    { "coordinates": [1601, 1139], "flag": "ES", "strength": 1, "name": "Los Alcazares" },
+    { "coordinates": [1773, 1299], "flag": "ES", "strength": 1, "name": "Isla del Baron"},
+    { "coordinates": [1710, 1282], "flag": "ES", "strength": 2, "name": "Isla de la Perdiguera"},
+    { "coordinates": [1910, 1206], "flag": "ES", "strength": 2, "name": "Isla Grosa"},
+    { "coordinates": [1395, 1149], "flag": "ES", "strength": 1, "name": "Torre-Pacheco" },
+    { "coordinates": [513, 735], "flag": "ES", "strength": 1, "name": "Librilla" },
+    { "coordinates": [237, 279], "flag": "ES", "strength": 1, "name": "Mula" },
+    { "coordinates": [201, 423], "flag": "ES", "strength": 1, "name": "Pliego" },
+    { "coordinates": [1200, 697], "flag": "ES", "strength": 2, "name": "Murcia City" },
+    { "coordinates": [909, 1176], "flag": "ES", "strength": 1, "name": "Fuente Álamo" },
+    { "coordinates": [1794, 930], "flag": "ES", "strength": 1, "name": "San Pedro del Pinatar" },
+    { "coordinates": [336, 798], "flag": "ES", "strength": 1, "name": "Alhama de Murcia" },
+    { "coordinates": [150, 1200], "flag": "ES", "strength": 2, "name": "Lorca" },
+    { "coordinates": [250, 950], "flag": "ES", "strength": 1, "name": "Totana" },
+    { "coordinates": [300, 1800], "flag": "ES", "strength": 1, "name": "Águilas" },
+    { "coordinates": [900, 50], "flag": "ES", "strength": 1, "name": "Yecla" },
+    { "coordinates": [600, 300], "flag": "ES", "strength": 1, "name": "Cieza" }
+  ]
+}
